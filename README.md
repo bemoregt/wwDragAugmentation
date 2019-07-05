@@ -1,11 +1,7 @@
 # ofxDragAugmentation
 Files drag &amp; drop Data Augmentation for Openframeworks.
 
-
-![before drag example]( https://github.com/bemoregt/ofxROIHeartRate/blob/master/ofxROIHeartRate.png "ROIGraph")
-- Before Dragging scene
-
-![batch processing]( https://github.com/bemoregt/ofxROIHeartRate/blob/master/ScrShot%206.png "ROIGraph2")
+![batch processing]( https://github.com/bemoregt/ofxDragAugmentation/blob/master/sample.png "ROIGraph2")
 - Batch image Processing
 
 ### How To
