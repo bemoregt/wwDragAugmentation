@@ -1,4 +1,4 @@
-# ofxDragAugmentation
+# wwDragAugmentation
 Files drag &amp; drop Data Augmentation for Openframeworks.
 
 ![batch processing]( https://github.com/bemoregt/ofxDragAugmentation/blob/master/sample.png "ROIGraph2")
